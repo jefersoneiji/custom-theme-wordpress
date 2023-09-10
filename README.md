@@ -9,6 +9,7 @@ This project contains a custom theme for wordpress built using pure PHP and no p
 - comments section for blog posts
 - responsive layout
 
+
 ### Prerequisites
 
 For this project to run, make sure these softare are installed:
