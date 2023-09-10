@@ -8,7 +8,7 @@ This project contains a custom theme for wordpress built using pure PHP and no p
 - custom widgets on footer and sidebar
 - comments section for blog posts
 - responsive layout
-
+- search page
 
 ### Prerequisites
 
