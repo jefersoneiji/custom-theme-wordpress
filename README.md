@@ -4,6 +4,11 @@ This project contains a custom theme for wordpress built using pure PHP and no p
 
 ![screenshot](https://github.com/codeLearnerrr/custom-theme-wordpress/assets/44307139/537233f4-17fd-40d6-8965-231f28c92bf7)
 
+### Features
+- custom widgets on footer and sidebar
+- comments section for blog posts
+- responsive layout
+
 ### Prerequisites
 
 For this project to run, make sure these softare are installed:
