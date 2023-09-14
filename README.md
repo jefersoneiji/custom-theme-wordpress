@@ -12,14 +12,14 @@ This project contains a custom theme for wordpress built using pure PHP and no p
 
 ### Prerequisites
 
-For this project to run, make sure these softare are installed:
+For this project to run, make sure these software are installed:
 
 - docker 
 - node
 - code editor
 - wordpress/env
 
-and you have admin access. 
+and you have admin access to the terminal. 
 
 Please follow [these](https://developer.wordpress.org/block-editor/getting-started/devenv/) instructions.
 
