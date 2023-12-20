@@ -1,16 +1,20 @@
-# Custom theme wordpress
+<h1 align="center">
+  Custom Theme Wordpress
+</h1>
 
-This project contains a custom theme for wordpress built using pure PHP and no plugins.
+<p align="center">
+    This project contains a custom theme for wordpress built using pure PHP and no plugins.
+</p>
 
 ![screenshot](https://github.com/codeLearnerrr/custom-theme-wordpress/assets/44307139/537233f4-17fd-40d6-8965-231f28c92bf7)
 
-### Features
+## Features
 - custom widgets on footer and sidebar
 - comments section for blog posts
 - responsive layout
 - search page
 
-### Prerequisites
+## Prerequisites
 
 For this project to run, make sure these software are installed:
 
@@ -23,7 +27,7 @@ and you have admin access to the terminal.
 
 Please follow [these](https://developer.wordpress.org/block-editor/getting-started/devenv/) instructions.
 
-### Installing
+## Installing
 
 To run this custom theme locally:
 1. Make sure the pre-requisites are done
